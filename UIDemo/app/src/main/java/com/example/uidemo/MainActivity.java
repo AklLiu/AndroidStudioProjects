@@ -18,7 +18,7 @@ import android.widget.SeekBar;
 import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
-
+//。。。
 public class MainActivity extends AppCompatActivity {
     TextView display;
     Button buttonLeft,buttonRight,button3;
